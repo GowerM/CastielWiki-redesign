@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'shardeeregular';
+    src: url('Shardee-webfont.eot');
+    src: url('Shardee-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Shardee-webfont.woff') format('woff'),
+         url('Shardee-webfont.ttf') format('truetype'),
+         url('Shardee-webfont.svg#shardeeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
